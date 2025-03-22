@@ -2,11 +2,11 @@
 
 
 # Terraform Commands
-Terraform init
-Terraform validate
-Terraform plan
-Terraform apply
+- Terraform init
+- Terraform validate
+- Terraform plan
+- Terraform apply
 
 
 # Run Playbook
-## ansible-playbook playbook.yml
+- ansible-playbook playbook.yml
